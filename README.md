@@ -1,6 +1,6 @@
 # SmartLedger (AI-Powered Expense & Budget Assistant)
 
-SmartLedger is a full-stack expense tracker with AI-assisted categorization and financial insights. It features a clean-architecture ASP.NET Core backend, a responsive React + Vite frontend, and a portfolio-ready UI.
+SmartLedger is a full-stack expense tracker with AI-assisted categorization and financial insights. It features a clean-architecture ASP.NET Core backend, a responsive React + Vite frontend, and a portfolio-ready UI ok makn
 
 ## Features
 
